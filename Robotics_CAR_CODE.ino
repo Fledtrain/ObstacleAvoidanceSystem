@@ -96,21 +96,6 @@ void loop()
   FindRange(trigPin6, echoPin6);
   distance6 = distance;
 
-
-
-
-
-
-
-
-
- 
-
-
-  //Demo code for safety distance to stop the vehicle
-
- 
- 
  
   if(distance3<=127 || distance4<=127) //Demo code for safety distance to stop the vehicle
   {  
@@ -125,13 +110,10 @@ void loop()
    }else if(distance5<32 || distance6<32){
      setVehicle(70,100);
    }
-
-   
     //Call the setVehicle function to set the vehicle steering and velocity(speed) values
   }
 
  
-
   Serial.print(distance1);
   Serial.print(" cm  ");
   Serial.print(distance2);
