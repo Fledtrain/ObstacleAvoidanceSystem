@@ -14,7 +14,7 @@ Development of a Self Driving Car using arduino and sensors
 
 
 ## Authors
-- [@Joey Whitehead](https://www.github.com/Fledtrain)  [@linkedin]()
+- [@Joey Whitehead](https://www.github.com/Fledtrain)
 - [@Mohamed Musbah](https://github.com/MohamedM829)
 - [@Ibrahim Jobran](https://www.linkedin.com/in/ibrahim-jobran-894864105/)
 - [@Soyeb Dungaria](https://www.linkedin.com/in/soyebdungaria/)
