@@ -10,8 +10,15 @@ Development of a Self Driving Car using arduino and sensors
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joeywhitehead/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Fledtrain)
 
-
 ![Logo](https://pbs.twimg.com/profile_images/1607115031136636928/fZIGEc0r_400x400.jpg)
+
+
+## Authors
+- [@Joey Whitehead](https://www.github.com/Fledtrain)  [@linkedin]()
+- [@Mohamed Musbah](https://github.com/MohamedM829)
+- [@Ibrahim Jobran](https://www.linkedin.com/in/ibrahim-jobran-894864105/)
+- [@Soyeb Dungaria](https://www.linkedin.com/in/soyebdungaria/)
+
 
 ## Acknowledgements
 
