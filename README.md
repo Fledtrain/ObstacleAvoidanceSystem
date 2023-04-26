@@ -5,6 +5,9 @@ Development of a Self Driving Car using arduino and sensors
 
 - A Self Driving Car that avoids obstacles
 
+https://user-images.githubusercontent.com/100319627/234614722-42f55d70-ec45-41a8-b77f-13305f0005cc.mov
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://fledtrain.github.io/E-Portfolio)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joeywhitehead/)
